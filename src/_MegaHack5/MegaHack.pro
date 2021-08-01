@@ -51,5 +51,7 @@ QMAKE_LIBS += \
     -ldbghelp \
     -lImagehlp
 
+LIBS += "C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\um\x64\User32.Lib"
+
 RESOURCES += \
     res.qrc
